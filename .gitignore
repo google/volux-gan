@@ -1,0 +1,9 @@
+# ignore ALL .gif files
+*.gif
+*.pyc
+*.zip
+
+# ignore folders
+example_hdri/
+checkpoint/
+.ipynb_checkpoints/

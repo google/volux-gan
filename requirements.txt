@@ -1,0 +1,7 @@
+tensorflow
+numpy
+tensorflow-addons
+gin-config
+tqdm
+imageio
+gdown
