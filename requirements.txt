@@ -1,7 +1,9 @@
-tensorflow
+tensorflow==2.2
 numpy
-tensorflow-addons
+tensorflow-addons==0.10.0
 gin-config
 tqdm
 imageio
 gdown
+opencv-python==4.5.3.56
+jupyterlab
